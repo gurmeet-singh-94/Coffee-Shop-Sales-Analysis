@@ -1,2 +1,2 @@
-## Coffe Shop Sales Analysis | MS-Excel
+## Coffee Shop Sales Analysis | MS-Excel
 
